@@ -15,11 +15,6 @@ export function Post() {
                 
                 <h6 className="card-subtitle comment"><i className="fa-regular fa-message me-2 comment"/>Comments (15)</h6>
             </div>
-            
-            {/* <div class="card-body">
-                <a href="#" class="card-link">Card link</a>
-                <a href="#" class="card-link">Another link</a>
-            </div> */}
         </div>
     </div>
   );
