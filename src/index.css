@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar {
+  font-size: 1.4em;
+}
+
+.fa-message {
+  color: gray;
+  font-size: 1.0em;
+  margin-right: 0.5em;
+}
+
+.comment{
+  color: gray;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.userInfo{
+  color: black;
+  font-weight: bold;
+}
+
+.postDate{
+  color: gray;
+  font-size: 0.9em;
+  vertical-align: middle;
+}
+
+.fa-heart{
+  margin-right: 0.5em;
+}
+
+.btn-danger{
+  font-size: 0.8em;
+}
+
+.card-text{
+  font-size: 1em;
+}
